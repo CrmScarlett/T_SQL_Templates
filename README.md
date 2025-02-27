@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account tor learning Git
+Practice account for learning Github!
