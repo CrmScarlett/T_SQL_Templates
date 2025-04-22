@@ -9,5 +9,8 @@ II. Data Analytics
      a. Split: Split long and delimited text
   4. Loading Data
      Load data into json/csv/other formatted(if possible) type of files and export into different location(Local and Cloud)
+III. Data Validation
+  1. Verify data mapping
+  2. Verify data precision
 
    
